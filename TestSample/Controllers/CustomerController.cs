@@ -64,7 +64,6 @@ namespace TestSample.Controllers
 
                     throw;
                 }
-
             }
 
             [Route("api/Customer/GetContactDetails/{id:int?}")]
